@@ -1,5 +1,5 @@
 # Bitcoin Macro Volatility Research (2024-2026)
-This repository contains the source code, dataset, and final research paper for the Accenture TalentSprint Capstone Project.
+This repository contains the source code, dataset, and final research paper for the TalentSprint Capstone Project.
 
 ## Project Overview
 An analysis of Bitcoin's pro-cyclical response to FOMC and CPI announcements following the 2024 ETF institutionalization.
